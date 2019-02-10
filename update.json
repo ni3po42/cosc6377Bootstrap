@@ -1,4 +1,6 @@
 {
   "version":1,
-  "mode":"n"
+  "mode":"n",
+  "server-ip":"127.0.0.1",
+  "server-port":314159
 }
