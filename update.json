@@ -1,6 +1,6 @@
 {
-  "version":2,
-  "mode":"n",
-  "server-ip":"35.224.162.90",
+  "version":3,
+  "mode":"d",
+  "server-ip":"127.0.0.1",
   "server-port":31415
 }
